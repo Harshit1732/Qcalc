@@ -3,7 +3,7 @@
 # Installation
 
 1. Clone the git repository using below Link
-   
+    https://github.com/Harshit1732/Qcalc.git
 
 
   
